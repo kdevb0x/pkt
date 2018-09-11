@@ -1,0 +1,10 @@
+github.com/google/gopacket v1.1.14 h1:1+TEhSu8Mh154ZBVjyd1Nt2Bb7cnyOeE3GQyb1WGLqI=
+github.com/google/gopacket v1.1.14/go.mod h1:UCLx9mCmAwsVbn6qQl1WIEt2SO7Nd2fD0th1TBAsqBw=
+github.com/mdlayher/ethernet v0.0.0-20180513165602-0a1564b57aea h1:UsKCfdCeZ/N+duhtXMUJ6XrAsPwerPJcMUCcmaxdu+Q=
+github.com/mdlayher/ethernet v0.0.0-20180513165602-0a1564b57aea/go.mod h1:/Q2hs4vCpD4WukymNvY0paizjh6zBK1rdb6ZHM2LDQY=
+github.com/mdlayher/raw v0.0.0-20180904195823-67a536258490 h1:I99tdqA1ygmdW0o/zybSegbU0sqLyItyNA63Ir+jwNA=
+github.com/mdlayher/raw v0.0.0-20180904195823-67a536258490/go.mod h1:rC/yE65s/DoHB6BzVOUBNYBGTg772JVytyAytffIZkY=
+golang.org/x/net v0.0.0-20180906233101-161cd47e91fd h1:nTDtHvHSdCn1m6ITfMRqtOd/9+7a3s8RBNOZ3eYZzJA=
+golang.org/x/net v0.0.0-20180906233101-161cd47e91fd/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+golang.org/x/sys v0.0.0-20180909124046-d0be0721c37e h1:o3PsSEY8E4eXWkXrIP9YJALUkVZqzHJT5DOasTyn8Vs=
+golang.org/x/sys v0.0.0-20180909124046-d0be0721c37e/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
